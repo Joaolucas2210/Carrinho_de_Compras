@@ -22,7 +22,7 @@ Finalização de Compra: Os clientes podem finalizar a compra, fornecendo inform
 Instalação
 Clone este repositório para o seu ambiente local.
 
-git clone https://github.com/seu-usuario/shopping-cart.git
+git clone git@github.com:Joaolucas2210/Carrinho_de_Compras.git
 Instale as dependencias (npm install)
 
 Inicie o servidor e a aplicação.
