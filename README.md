@@ -46,4 +46,4 @@ Se você deseja contribuir para o desenvolvimento do Shopping Cart, sinta-se à 
 Contato
 Para qualquer dúvida, sugestões ou problemas, entre em contato j.lucascamargo@gmail.com.
 
-Esperamos que o Shopping Cart seja útil e eficaz para você e seus clientes. Aproveite suas compras online!
+Espero que o Shopping Cart seja útil!
