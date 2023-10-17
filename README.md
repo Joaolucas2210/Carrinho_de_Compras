@@ -1,5 +1,6 @@
-README - Shopping Cart
-Este é o README do Shopping Cart, um sistema de carrinho de compras simples e fácil de usar. Este sistema foi desenvolvido para permitir que os clientes de uma loja online adicionem produtos ao carrinho, visualizem seus itens selecionados.
+README - Shopping Cart <br>
+
+Este é o Shopping Cart, um sistema de carrinho de compras simples e fácil de usar. Este sistema foi desenvolvido para permitir que os clientes de uma loja online adicionem produtos ao carrinho, visualizem seus itens selecionados.
 
 Funcionalidades
 O Shopping Cart possui as seguintes funcionalidades:
